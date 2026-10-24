@@ -1,0 +1,30 @@
+{
+  "name": "Last Tile: Trivia Temple",
+  "short_name": "Last Tile",
+  "description": "Un tempio di 10 sale: in ogni sala un enigma, 10 lastre e una sola regge. Esci col tesoro o scendi più a fondo.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0906",
+  "theme_color": "#0d0906",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "games",
+    "trivia",
+    "education"
+  ],
+  "lang": "it"
+}
