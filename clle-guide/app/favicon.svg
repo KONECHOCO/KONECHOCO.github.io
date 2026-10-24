@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#0b1220"/>
+  <rect x="8" y="10" width="48" height="44" rx="6" fill="#07140f" stroke="#3ee08f" stroke-width="2"/>
+  <text x="14" y="40" font-family="ui-monospace,monospace" font-size="18" fill="#3ee08f">CL&gt;</text>
+</svg>
